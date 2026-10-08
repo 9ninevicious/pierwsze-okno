@@ -7,6 +7,7 @@
         Title="moje pierwsze okienko"
         Width="500"
         Height="300"
-        WindowStartupLocation="CenterScreen">
+        WindowStartupLocation="CenterScreen"
+        CanResize="False">
     Welcome to Avalonia!
 </Window>
