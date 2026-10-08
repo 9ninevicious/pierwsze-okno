@@ -10,5 +10,6 @@
         WindowStartupLocation="CenterScreen">
     <TextBlock Text="Właśnie stworzyłam swoje pierwsze okienko!"
                FontSize="22"
-               FontWeight="Bold" />
+               FontWeight="Bold"
+               FontStyle="Italic" />
 </Window>
