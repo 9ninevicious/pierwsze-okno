@@ -8,5 +8,5 @@
         Width="500"
         Height="300"
         WindowStartupLocation="CenterScreen">
-    Właśnie stworzyłam swoje pierwsze okienko!
+    <TextBlock Text="Właśnie stworzyłam swoje pierwsze okienko!" />
 </Window>
