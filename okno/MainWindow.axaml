@@ -4,7 +4,6 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
         x:Class="okno.MainWindow"
-<<<<<<< HEAD
         Title="moje pierwsze okienko"
         Width="500"
         Height="300"
@@ -18,10 +17,4 @@
         VerticalAlignment="Center"
         WindowState="Maximized">
     <TextBlock Text="Wlasnie zrobilam swoje pierwsze okienko!"/>
-=======
-        Title="okienko">
-        width="500"
-        height="300"
-    Welcome to Avalonia!
->>>>>>> 0ce29335d850a01ed16d7773d4a1404975abd729
 </Window>
