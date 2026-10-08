@@ -7,9 +7,14 @@
         Title="moje pierwsze okienko"
         Width="500"
         Height="300"
-        WindowStartupLocation="CenterScreen">
-    <TextBlock Text="Właśnie stworzyłam swoje pierwsze okienko!"
-               FontSize="22"
-               FontWeight="Bold"
-               FontStyle="Italic" />
+        FontSize="22"
+        FontWeight="Bold"
+        FontStyle="Italic"
+        Foreground="#BF0079"
+        Background="#FFB3E3"
+        WindowStartupLocation="CenterScreen"
+        HorizontalAlignment="Center"
+        VerticalAlignment="Center"
+        WindowState="Maximized">
+    <TextBlock Text="Wlasnie zrobilam swoje pierwsze okienko!"/>
 </Window>
